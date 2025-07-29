@@ -1,6 +1,6 @@
 # GPU and CPU Quantization on Airavata
 AI4Bharat/Airavata Quantization + FastAPI Backend
-AI4Bharat/Airavata Quantization + FastAPI Backend 
+
 AIM: 
 This project aims to quantize the AI4Bharat/Airavata large language model for efficient, optimized performance on both CPU and GPU. The project also involves developing a FastAPI backend service to serve the quantized model for inference, with a focus on reducing latency and increasing throughput while maintainingthe  quality of generation. All inference metrics, such as latency and throughput, are to be captured and evaluated using a single-machine setup. 
 
